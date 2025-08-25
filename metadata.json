@@ -1,0 +1,5 @@
+{
+  "name": "Medina Neuro Predictor",
+  "description": "Una aplicación web que visualiza una simulación de conexiones neuronales y predice la siguiente palabra en una frase utilizando la API de Gemini, con una estética en negro, blanco y magenta.",
+  "requestFramePermissions": []
+}
